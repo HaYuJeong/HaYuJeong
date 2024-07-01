@@ -10,8 +10,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
-
 <div align="center">
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/HaYuJeong" style="margin: 0 10px;">
