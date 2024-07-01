@@ -43,4 +43,7 @@
 <div style="text-align: center;">
     <h2>🔩 Tools</h2>
 </div>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=#181717">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=#181717">
+</div>
