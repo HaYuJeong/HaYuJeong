@@ -19,9 +19,11 @@
 
 </br>
 
-<div align="center">
-## 🔨 STACK
+
+<div style="text-align: center;">
+    <h2>🔨 STACK</h2>
 </div>
+
 
 <br/>
 <div align="center">
