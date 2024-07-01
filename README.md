@@ -27,9 +27,10 @@
 <div style="text-align: center;">
     <h2>🔩 Tools</h2>
 </div>
-<div>
+
+<div align="center">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=#181717">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
   
 <div style="text-align: center;">
