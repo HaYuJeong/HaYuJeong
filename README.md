@@ -1,12 +1,13 @@
-<div style="text-align: center;">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&fontAlignY=40&fontAlign=65" />
-</div>
 <div style="text-align: center; margin-top: 20px;">
     💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
 </div>
 
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&fontAlignY=40&fontAlign=65" />
+</div>
+
 </br>
-</br>
+
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
