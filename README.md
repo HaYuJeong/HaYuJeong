@@ -43,5 +43,10 @@
   <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=ydmins" width="42%" height="100%"/>
 </div>
 <div>
+    <a href="https://github.com/HaYuJeong">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
+</a>
+</div>
+<div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayj6935&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
