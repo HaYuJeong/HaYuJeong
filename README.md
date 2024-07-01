@@ -17,7 +17,7 @@
 
 
 <div style="text-align: center;">
-    <h2>🔨 STACK</h2>
+    <h2>🛠 STACK</h2>
 </div>
 
 
@@ -28,7 +28,7 @@
 </div>
 
 <div style="text-align: center;">
-    <h2>🔨 Stats</h2>
+    <h2>🏅 Stats</h2>
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
