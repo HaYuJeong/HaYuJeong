@@ -27,6 +27,7 @@
 <div style="text-align: center;">
     <h2>🏅 Stats</h2>
 </div>
+
 <div>
 <a href="https://github.com/HaYuJeong">
   <img src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" width = "49%" height="130%"  />
@@ -43,7 +44,4 @@
 <div style="text-align: center;">
     <h2>🔩 Tools</h2>
 </div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=#181717">
-</div>
