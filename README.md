@@ -11,13 +11,10 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
-
 </br>
 
-
 <div style="text-align: center;">
-    <h2>🛠 STACK</h2>
+    <h2>🛠 Stack</h2>
 </div>
 
 
@@ -30,8 +27,6 @@
 <div style="text-align: center;">
     <h2>🏅 Stats</h2>
 </div>
-
-
 <div>
 <a href="https://github.com/HaYuJeong">
   <img src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" width = "49%" height="130%"  />
