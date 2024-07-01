@@ -1,8 +1,7 @@
 ## Hi Welcome, I'm YuJeong Ha 👋
 
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.&fontSize=90)
+💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YuJeong%20Ha&fontSize=90)
 <!--
 **HaYuJeong/HaYuJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +19,9 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
-<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&theme=radical) "></a>
+<a href="https://github.com/HaYuJeong">
+  <img src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&theme=radical" alt="Anurag's GitHub stats"/>
+</a>
 
 ## STACK
 
