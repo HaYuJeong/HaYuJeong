@@ -31,10 +31,12 @@
     <h2>🏅 Stats</h2>
 </div>
 
-<div align="center">
+<divstyle="text-align: center;">
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
 <a href="https://github.com/HaYuJeong">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
 </a>
+
 </div>
