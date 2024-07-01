@@ -31,7 +31,7 @@
     <h2>🏅 Stats</h2>
 </div>
 
-<divstyle="text-align: center;">
+<div style="text-align: center;">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
