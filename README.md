@@ -1,6 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&fontAlignY=40&fontAlign=65" />
-</br>
-💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
+
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&fontAlignY=40&fontAlign=65" />
+</div>
+<div style="text-align: center; margin-top: 20px;">
+    💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
+</div>
 </br>
 </br>
 
