@@ -11,11 +11,7 @@
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
-<a href="https://github.com/HaYuJeong">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
-</a>
 
 </br>
 
@@ -31,8 +27,12 @@
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 
+<div style="text-align: center;">
+    <h2>🔨 Stats</h2>
+</div>
 
-## 💻 My Team Projects
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
-- [Project 1](https://github.com/Bkukim/LottoTeamProject)
-- [Project 2](https://github.com/Bkukim/lotto_board_project)
+<a href="https://github.com/HaYuJeong">
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
+</a>
