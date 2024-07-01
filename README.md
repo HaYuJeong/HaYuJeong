@@ -1,6 +1,5 @@
 ## Hi Welcome, I'm YuJeong Ha 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=%3C%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%ED%95%98%EC%9C%A0%EC%A0%95%EC%9E%85%EB%8B%88%EB%8B%A4%3E&fontSize=90&animation=fadeIn" />
 
 💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
 
@@ -20,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
-<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&theme=radical) 
 ## STACK
 
@@ -35,14 +34,7 @@ square&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/PostCSS-DD3AOA?style=flat-
 square&logo=PostCSS&logoColor=white)
 <br>
-![](https://img.shields.io/badge/React-61DAFB?style=flat-
-square&logo=React&logoColor=black)
-![](https://img.shields.io/badge/Redux-764ABC?style=flat-
-square&logo=Redux&logoColor=white)
-![](https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-
-Saga&logoColor=white)
-! [](https://img.shields.io/badge/GraphQL-E10098?style=flat-
-square&logo=GraphQL&logoColor=white)
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <br>
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=flat-
 square&logo=Netlify&logoColor=white)
