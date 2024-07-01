@@ -1,5 +1,7 @@
 ## Hi Welcome, I'm YuJeong Ha 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<백엔드 개발자 하유정입니다>&fontSize=90&animation=fadeIn" />
+
 💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
 
 <!--
@@ -46,3 +48,8 @@ square&logo=GraphQL&logoColor=white)
 square&logo=Netlify&logoColor=white)
 ![](https://img.shields.io/badge/MSAzure-0078D4?style=flat-
 square&logo=MicrosoftAzure&logoColor=white)
+
+## My Team Projects
+
+- [Project 1](https://github.com/Bkukim/LottoTeamProject)
+- [Project 2](https://github.com/Bkukim/lotto_board_project)
