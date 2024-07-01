@@ -33,10 +33,10 @@
 
 
 <div>
-    <a href="https://github.com/HaYuJeong">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" width = "49%" height="130%"  />
+<a href="https://github.com/HaYuJeong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" width = "49%" height="130%"  />
 </a>
-    <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hayj6935" width = "42%" height="100%"/>
+<img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hayj6935" width = "42%" height="100%"/>
 </div>
 
 <div>
