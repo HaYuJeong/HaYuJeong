@@ -1,6 +1,6 @@
 ## Hi Welcome, I'm YuJeong Ha 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=<백엔드 개발자 하유정입니다>&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=%3C%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%ED%95%98%EC%9C%A0%EC%A0%95%EC%9E%85%EB%8B%88%EB%8B%A4%3E&fontSize=90&animation=fadeIn" />
 
 💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
 
