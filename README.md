@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/HaYuJeong">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
 </a>
+
+</br>
+
 ## STACK
 
 <br>
