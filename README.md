@@ -39,8 +39,8 @@
 </a>
 
 <div>
-  <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&theme=holi" width = "49%" height="130%" />
-      <a href="https://github.com/HaYuJeong">
+    <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=hayj6935" width = "49%" height="130%"/>
+<a href="https://github.com/HaYuJeong">
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=HaYuJeong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="HaYuJeong's github stats" />
 </a>
 </div>
