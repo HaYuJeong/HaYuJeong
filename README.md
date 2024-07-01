@@ -19,7 +19,9 @@
 
 </br>
 
+<div align="center">
 ## 🔨 STACK
+</div>
 
 <br/>
 <div align="center">
