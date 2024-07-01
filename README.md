@@ -5,7 +5,7 @@
 </br>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35&height=250" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=35" />
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
