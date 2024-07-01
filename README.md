@@ -4,8 +4,12 @@
 </br>
 </br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&fontSize=90)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23FE8594&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20Yujeong's%20GitHub👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHaYuJeong%2FHaYuJeong&count_bg=%23FE8594&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hayj6935)](https://solved.ac/hayj6935)
 
 <a href="https://github.com/HaYuJeong">
