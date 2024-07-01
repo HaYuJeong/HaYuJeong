@@ -1,8 +1,8 @@
 ## Hi Welcome, I'm YuJeong Ha 👋
 
 
-💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YuJeong&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=💼 백엔드 개발에 대한 열정과 깊은 관심을 가지고 있으며, 끊임없이 기술을 탐구하며 성장하고 있습니다.&fontSize=90)
 <!--
 **HaYuJeong/HaYuJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
