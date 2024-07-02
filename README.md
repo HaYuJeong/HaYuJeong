@@ -13,8 +13,10 @@
 
 </br>
 
+📚 Tech Stack 📚
+
 <div style="text-align: center;">
-    <h2>🛠 Stack</h2>
+    <h2>🛠 Language</h2>
 </div>
 
 
@@ -51,5 +53,5 @@
 </div>
 
 </br>
-
+✉️ Contact ✉️
 
