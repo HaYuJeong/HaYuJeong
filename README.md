@@ -12,8 +12,9 @@
 
 
 </br>
-
-📚 Tech Stack 📚
+<div style="text-align: center;">
+<h2>📚 Tech Stack 📚</h2>
+</div>
 
 <div style="text-align: center;">
     <h2>🛠 Language</h2>
